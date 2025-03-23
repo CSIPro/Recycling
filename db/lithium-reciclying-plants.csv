@@ -1,15 +1,8 @@
-WKT,name,description
-"POINT (-77.67829119999999 43.1981518)",Li-Cycle New York Spoke,Expects to use a hydrometallurgical process and serve as one of the largest sources of recycled lithium carbonate in North America. The facility is expected to process up to 35,000 tonnes of black mass per year.
-https://li-cycle.com/rochester-hub/
-"POINT (-111.7696764 32.87824409999999)",Quemetco Metals Ltd Inc,Quemetco Metals Ltd Inc - Ecobat. 
- It will initially produce around 10,000 tons of recycled material per year, with expansion plans to meet the growing demand for lithium-ion battery recycling.
-
-"POINT (-95.46281119999999 29.7386312)",ACE Green Recycling,https://www.acegreenrecycling.com/  It plans to establish a 400,000-square-foot facility capable of recycling both lead-acid and lithium-ion batteries. The plant is expected to be fully operational by 2025.
-"POINT (-119.7414856 39.204376)",Redwood Materials,Unspecified capacity, up to 95% material recovery.
-"POINT (-119.8217446 39.5242032)",American Battery Technology Company,https://americanbatterytechnology.com
-20,000 toneladas métricas/año
-"POINT (-119.4399422 39.53570729999999)",Tesla Giga Nevada,Tesla Gigafactory 1, located in Sparks, Nevada, USA. It is a massive battery manufacturing facility that produces lithium-ion battery cells and packs, primarily for Tesla's electric vehicles and energy storage products. This factory is a key part of Tesla’s supply chain and sustainability efforts, designed to scale up battery production and reduce costs through vertical integration.
-Battery Cells: Originally planned to reach 35 GWh per year, but with ongoing expansions, production capacity has increased beyond this figure. Tesla has not disclosed the exact current capacity.
-Battery Packs: Over 50 GWh per year, used for Tesla vehicles and energy storage solutions.
-Energy Storage Products: Powerwalls, Powerpacks, and Megapacks are also produced at this facility.
-"POINT (-83.84230749999999 33.6122481)",Ascend Elements, Inc.,Unspecified capacity, recycling process with cathode conversion
+WKT,name,description,capacity
+"POINT (-77.67829119999999 43.1981518)",Li-Cycle New York Spoke,"Expects to use a hydrometallurgical process and serve as one of the largest sources of recycled lithium carbonate in North America. The facility is expected to process up to 35,000 tonnes of black mass per year. https://li-cycle.com/rochester-hub/",18000
+"POINT (-111.7696764 32.87824409999999)",Quemetco Metals Ltd Inc,"Quemetco Metals Ltd Inc - Ecobat.  It will initially produce around 10,000 tons of recycled material per year, with expansion plans to meet the growing demand for lithium-ion battery recycling.",10000
+"POINT (-95.46281119999999 29.7386312)",ACE Green Recycling,"https://www.acegreenrecycling.com/  It plans to establish a 400,000-square-foot facility capable of recycling both lead-acid and lithium-ion batteries. The plant is expected to be fully operational by 2025."
+"POINT (-119.7414856 39.204376)",Redwood Materials,"Unspecified capacity, up to 95% material recovery."
+"POINT (-119.8217446 39.5242032)",American Battery Technology Company,"https://americanbatterytechnology.com 20,000 toneladas métricas/año"
+"POINT (-119.4399422 39.53570729999999)",Tesla Giga Nevada,"Tesla Gigafactory 1, located in Sparks, Nevada, USA. It is a massive battery manufacturing facility that produces lithium-ion battery cells and packs, primarily for Tesla's electric vehicles and energy storage products. This factory is a key part of Tesla’s supply chain and sustainability efforts, designed to scale up battery production and reduce costs through vertical integration. Battery Cells: Originally planned to reach 35 GWh per year, but with ongoing expansions, production capacity has increased beyond this figure. Tesla has not disclosed the exact current capacity. Battery Packs: Over 50 GWh per year, used for Tesla vehicles and energy storage solutions. Energy Storage Products: Powerwalls, Powerpacks, and Megapacks are also produced at this facility."
+"POINT (-83.84230749999999 33.6122481)",Ascend Elements," Inc.,Unspecified capacity, recycling process with cathode conversion"
